@@ -9,6 +9,10 @@ this is not complete but includes quite a bit of functionality already. i will b
 - login with username/password
 - caches exisiting logins to disk automatically
 - (wip) simple route for binding UI to recieved events (all the methods for responding to events are in one place)
+- retrieve rooms
+- retrieve messages for a selected room
+- send messages
+- encryption is coming soon
 
 i am already working on a code generator that will be able to take the api.json from the matrix spec repos to generate the api network calls
 
