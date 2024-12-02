@@ -1,6 +1,6 @@
 # gdmatrix
 
-Makes implementing Matrix into Godot 4.x projects easier.
+Makes implementing the Matrix spec into Godot 4.x projects easier.
 
 ## notice:
 
